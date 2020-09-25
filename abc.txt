@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Helo file abc ahahahah
-=======
 Helo file abc 1
->>>>>>> d0459754cfc927d056383fd71addd07d60c0d778
